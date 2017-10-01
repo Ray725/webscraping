@@ -4,7 +4,7 @@ import json
 from bs4 import BeautifulSoup
 
 raw_prof_url_array = []
-num_professors_to_get = 1000
+num_professors_to_get = 2600
 dictionary = {}
 start_time = time.time()
 
@@ -17,7 +17,7 @@ def process_only_courses(input_array):
 
 
 # generate an array of hypothetical professor urls
-for i in range(num_professors_to_get):
+for i in range(400, 3000):
     raw_prof_url_array.append('http://culpa.info/professors/{}'.format(i))
 
 # get raw html links of professor courses
@@ -28,8 +28,11 @@ for i in range(num_professors_to_get):
     # returns 1 if unfound professor error
     if(len(soup.select('p.error')) == 0):
         # get professor name
-        name = soup.h1.text
-        name = name.strip(' \n')
+        try:
+            name = soup.h1.text
+            name = name.strip(' \n')
+        except:
+            continue
         # get raw html
         raw_course_array = soup.select('div.box > p > a')
         # get a course tags for given professor
@@ -60,6 +63,6 @@ print(elapsed_time)
 
 # export as json
 json = json.dumps(dictionary)
-f = open("dictionary.json", "w")
+f = open("dictionary_4.json", "w")
 f.write(json)
 f.close()
