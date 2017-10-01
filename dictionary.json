@@ -1,5 +1,5 @@
 {
-  "Xavier Sala-i-Martin": ["[W3211]", "Macroeconomics", "[W3213]", "[G4301]", "[W3213]"],
+  "Xavier Sala-i-Martin": ["[W3211]", "Macroeconomics", "[W3213]", "[G4301]", "[G4301]"],
   "Jill Shapiro": ["[EEEB V1010]", "[EEEB W4700]", "[EEEB W3030]", "[W3215]", "[EEEB W3910]", "[W1010]", "[EEEB V1010]"],
   "Terence D'Altroy": ["[ANTH V3922]", "[ANTH V1008]", "[C1010]", "Anthology", "[ANTH V1008]"],
   "Marina Cords": ["[V1011/W3011]", "Behavioral biology of living primates", "Primates", "[EEEB V3940]"],
@@ -8,7 +8,7 @@
   "Lesley Sharp": ["[ANTH BC3868]", "[ANTH BC3142]", "[ANTH V3936]", "[ANTH V3943]", "[ANTH V3160]", "[ANTH V1002]", "[ANTH V3040]", "Absent Bodies"],
   "Michael Taussig": ["[ANTH V3990]", "[ANTH V3951]", "[ANTH V3995]", "[ANTH V3952]", "[ANTH V1002]", "Advanced Underwater Weaving: Making Baskets Fit For A Sea-King"],
   "Bernard Berofsky": ["Senior Seminar", "[PHIL V3601]", "[PHIL C1010]", "[PHIL V3786]", "[C1101]"],
-  "Richard Billows": ["[HIST W1010]", "[C1101]", "History of the Mediterranean after Alexander", "[W3006]", "[HIST W4020]", "[W1020]", "[C1101]"],
+  "Richard Billows": ["[HIST W1010]", "[C1101]", "History of the Mediterranean after Alexander", "[W3006]", "[HIST W4020]", "[W1020]", "[HIST W1010]"],
   "Hamid Dabashi": ["[CLME W3753]", "[ASCM V2008]", "General Review", "[CLME W4031]", "[ASCM V2001]", "[CLME W4031]", "[MDES G6020]", "Intro to Comparative Literature", "Intro to the Comp Lit Major", "[C1101]", "[MDES G4721]", "General Politics of Modern Iran", "[CLME W3032]", "[MDES W3000x]", "[CLME G4733]"],
   "Pierre Force": ["Moliere", "[C1101]", "The French Philosophical Tradition"],
   "Martha Howell": ["[C1101]", "Family, Sexuality, and Marriage in Premodern Europe", "[HIST W4176]"],
@@ -20,7 +20,7 @@
   "Shigeru Eguchi": ["[JPNS C1201]", "[JPNS C1101]", "Intermediate Japanese", "[JPNS C1202]", "[JPNS W4005]", "[JPNS W4006]"],
   "Peter Allen": ["[COMS W3137]", "[COMS W3139]", "[COMS W4733]", "[COMS W4733]"],
   "Steven Feiner": ["[COMS W4170]", "[COMS W4160]"],
-  "Jonathan Gross": ["[COMS W4205]", "[COMS W3203]", "[COMS W4203]", "[COMS W4205]", "[COMS W3203]"],
+  "Jonathan Gross": ["[COMS W4205]", "[COMS W3203]", "[COMS W4203]", "[COMS W4205]", "[COMS W4203]"],
   "John Kender": ["[COMS W4701]", "[COMS W1009]", "[COMS W3137]", "[COMS W1007]", "[COMS W1007]"],
   "Michael Mauel": ["[COMS W1005]", "[APAM 1601]", "[APPH 4200]"],
   "Jason Nieh": ["[COMS W3137]", "[COMS W4118]"],
@@ -50,7 +50,7 @@
   "Elizabeth Blackmar": ["[HIST W3411]", "[HIST W3441]", "[HIST W3900]", "Senior Thesis Seminar"],
   "Alan Brinkley": ["[HIST W3649]", "[HIST BC3467]", "[HIST BC3520]", "[HIST W4552]", "[HIST W3649]"],
   "Eric Foner": ["[HIST W3528]", "[HIST W3528]", "[HIST W3431]", "[HSEA W3880]", "[HIST W3432]", "[HIST G8530]", "[HIST W4518]", "[HIST W3432]"],
-  "Victoria De Grazia": ["\n        American in Europe 1920-1990\n      ", "[HIST BC1302]", "[HIST W3330]"],
+  "Victoria De Grazia": ["American in Europe 1920-1990", "[HIST BC1302]", "[HIST W3330]"],
   "Arthur Goren": ["[HIST W3630]"],
   "William Harris": ["Roman Empire", "Roman History", "Roman Social History", "[HIST G8030]", "Family & Sexuality in Greece & Rome", "[HIST W1020]", "[HIST W3020]", "[W1020]"],
   "Kenneth Jackson": ["[HIST W3535]", "[HIST W3449]", "Robert Moses & the Modern City (co-taught with Hilary Ballon)", "American Military History & Policy", "[HIST W3488]", "[HIST W3535]"]

@@ -1,12 +1,12 @@
 import requests
-import re
+import time
 import json
 from bs4 import BeautifulSoup
 
 raw_prof_url_array = []
-num_professors_to_get = 
+num_professors_to_get = 1000
 dictionary = {}
-
+start_time = time.time()
 
 def process_only_courses(input_array):
     only_courses_array = []
@@ -19,7 +19,6 @@ def process_only_courses(input_array):
 # generate an array of hypothetical professor urls
 for i in range(num_professors_to_get):
     raw_prof_url_array.append('http://culpa.info/professors/{}'.format(i))
-
 
 # get raw html links of professor courses
 
@@ -55,6 +54,9 @@ for i in range(num_professors_to_get):
         # make dictionary of professors and corresponding course list
         dictionary.update(dic_item)
     print("Finished", i)
+
+elapsed_time = time.time() - start_time
+print(elapsed_time)
 
 # export as json
 json = json.dumps(dictionary)
