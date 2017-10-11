@@ -21,10 +21,16 @@ for (var i = 0; i < coursesbyprofjson.length; i++) {
   }
 
   if (professor_json !== undefined) {
-    if(professor_json.Nugget !== undefined) {
+    if (professor_json.Nugget !== undefined) {
       combined_json.push({
         "Professor": professor_name,
         "Nugget": professor_json.Nugget,
+        "Courses": coursesbyprofjson[i].Courses
+      });
+    } else {
+      combined_json.push({
+        "Professor": professor_name,
+        "Nugget": "none",
         "Courses": coursesbyprofjson[i].Courses
       });
     }
@@ -40,6 +46,14 @@ for (var i = 0; i < coursesbyprofjson.length; i++) {
 }
 
 // successfully combine JSONs
-console.log(combined_json);
+console.log("courses by prof json", coursesbyprofjson.length);
+console.log("combined json", combined_json.length);
 
 // try to append to a text file line by line
+for (var i = 0; i < combined_json.length; i++) {
+  fs.appendFile('combined_json.txt', JSON.stringify(combined_json[i]), function(err) {
+    if (err) {
+      throw err;
+    }
+  });
+}
