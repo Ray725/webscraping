@@ -14,10 +14,13 @@ for (var j = 0; j < course_nugget.length; j++) {
   // find the JSON in departments.json that contains professor
   for (var k = 0; k < departments.length; k++) {
     // make sure professor list exists
+    console.log(departments[k]);
     if (departments[k].FIELD2.length > 0) {
       // convert to an array/list
+
       var professorArray = departments[k].FIELD2.split("]");
-      for(var m = 0; m < professorArray.length; m++) {
+
+      for (var m = 0; m < professorArray.length; m++) {
         professorArray[m] = professorArray[m].replace(/\W/g, '').toLowerCase();
       }
       // iterate through professor list
