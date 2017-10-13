@@ -14,7 +14,6 @@ for (var j = 0; j < course_nugget.length; j++) {
   // find the JSON in departments.json that contains professor
   for (var k = 0; k < departments.length; k++) {
     // make sure professor list exists
-    console.log(departments[k]);
     if (departments[k].FIELD2.length > 0) {
       // convert to an array/list
 
@@ -43,7 +42,7 @@ for (var j = 0; j < course_nugget.length; j++) {
     });
   }
 
-  console.log("finished " + j);
+  console.log("finished " + j + " out of " + course_nugget.length);
   professor_json = "";
 }
 
@@ -51,7 +50,7 @@ for (var j = 0; j < course_nugget.length; j++) {
 
 console.log(combined_json);
 
-/*
+
 // try to append to a text file line by line
 for (var i = 0; i < combined_json.length; i++) {
   fs.appendFile('depart_nugget_course.txt', JSON.stringify(combined_json[i]), function(err) {
@@ -60,4 +59,3 @@ for (var i = 0; i < combined_json.length; i++) {
     }
   });
 }
-*/
