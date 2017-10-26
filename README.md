@@ -1,5 +1,5 @@
 # webscraping
-webscraping CULPA for spectech backend project
+developing project Classify. webscraping scripts and extensive data cleaning to format properly for MongoDB database
 
 ## involved skills
 ### employed Python dictionary data structure:
