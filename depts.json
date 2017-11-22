@@ -1,0 +1,646 @@
+[
+  {
+    "Code": "ACCT",
+    "Name": "Accounting (ACCT)"
+  },
+  {
+    "Code": "DVSP",
+    "Name": "School of Professional Studies"
+  },
+  {
+    "Code": "DEOS",
+    "Name": "Dental and Oral Surgery"
+  },
+  {
+    "Code": "ARAF",
+    "Name": "African-American Studies, Institute for Research in"
+  },
+  {
+    "Code": "COCI",
+    "Name": "Contemporary Civilization and Literature Humanities"
+  },
+  {
+    "Code": "HIST",
+    "Name": "History"
+  },
+  {
+    "Code": "PHIL",
+    "Name": "Philosophy"
+  },
+  {
+    "Code": "ENCL",
+    "Name": "English and Comparative Literature"
+  },
+  {
+    "Code": "ANTH",
+    "Name": "Anthropology"
+  },
+  {
+    "Code": "ARPL",
+    "Name": "Architecture, Planning and Preservation"
+  },
+  {
+    "Code": "MUSI",
+    "Name": "Music"
+  },
+  {
+    "Code": "RELI",
+    "Name": "Religion"
+  },
+  {
+    "Code": "AHAR",
+    "Name": "Art History and Archaeology"
+  },
+  {
+    "Code": "AFSB",
+    "Name": "Africana Studies (AFSB)"
+  },
+  {
+    "Code": "LRC",
+    "Name": "Language Resource Center"
+  },
+  {
+    "Code": "AMSB",
+    "Name": "American Studies @Barnard"
+  },
+  {
+    "Code": "ENGB",
+    "Name": "English @Barnard"
+  },
+  {
+    "Code": "AMST",
+    "Name": "American Studies"
+  },
+  {
+    "Code": "CLAS",
+    "Name": "Classics"
+  },
+  {
+    "Code": "ANES",
+    "Name": "Anesthesiology"
+  },
+  {
+    "Code": "ANTB",
+    "Name": "Anthropology @Barnard"
+  },
+  {
+    "Code": "GSAS",
+    "Name": "Graduate School of Arts and Sciences"
+  },
+  {
+    "Code": "APAM",
+    "Name": "Applied Physics and Applied Mathematics"
+  },
+  {
+    "Code": "CHEN",
+    "Name": "Chemical Engineering"
+  },
+  {
+    "Code": "ARCB",
+    "Name": "Architecture @Barnard"
+  },
+  {
+    "Code": "DGLO",
+    "Name": "Global Programs"
+  },
+  {
+    "Code": "ARHB",
+    "Name": "Art History @Barnard"
+  },
+  {
+    "Code": "EALC",
+    "Name": "East Asian Languages and Cultures"
+  },
+  {
+    "Code": "MELC",
+    "Name": "Middle Eastern, South Asian and African Studies"
+  },
+  {
+    "Code": "ASMB",
+    "Name": "Asian and Middle East @Barnard"
+  },
+  {
+    "Code": "PHYB",
+    "Name": "Physics and Astronomy @Barnard"
+  },
+  {
+    "Code": "ASTR",
+    "Name": "Astronomy"
+  },
+  {
+    "Code": "AUDT",
+    "Name": "Auditing"
+  },
+  {
+    "Code": "PHYS",
+    "Name": "Physics"
+  },
+  {
+    "Code": "ACLB",
+    "Name": "Athena Center for Leadership Studies @Barnard"
+  },
+  {
+    "Code": "BIOS",
+    "Name": "Biological Sciences"
+  },
+  {
+    "Code": "BICH",
+    "Name": "Biochemistry and Molecular Biophysics"
+  },
+  {
+    "Code": "BIOB",
+    "Name": "Biological Sciences @Barnard"
+  },
+  {
+    "Code": "BMEN",
+    "Name": "Biomedical Engineering"
+  },
+  {
+    "Code": "BINF",
+    "Name": "Biomedical Informatics"
+  },
+  {
+    "Code": "BIST",
+    "Name": "Biostatistics"
+  },
+  {
+    "Code": "ELEN",
+    "Name": "Electrical Engineering"
+  },
+  {
+    "Code": "SOSC",
+    "Name": "Sociomedical Sciences"
+  },
+  {
+    "Code": "SLAL",
+    "Name": "Slavic Languages"
+  },
+  {
+    "Code": "BUSI",
+    "Name": "Business"
+  },
+  {
+    "Code": "COLL",
+    "Name": "Columbia College"
+  },
+  {
+    "Code": "MGMT",
+    "Name": "Management"
+  },
+  {
+    "Code": "BUEC",
+    "Name": "Business Economics"
+  },
+  {
+    "Code": "MRKT",
+    "Name": "Marketing"
+  },
+  {
+    "Code": "FIEC",
+    "Name": "Finance and Economics"
+  },
+  {
+    "Code": "FINC",
+    "Name": "Finance"
+  },
+  {
+    "Code": "SPPO",
+    "Name": "Spanish and Portuguese"
+  },
+  {
+    "Code": "CMBS",
+    "Name": "Cellular, Molecular, and Biophysical Studies"
+  },
+  {
+    "Code": "EAEE",
+    "Name": "Earth and Environmental Engineering"
+  },
+  {
+    "Code": "CHEM",
+    "Name": "Chemistry"
+  },
+  {
+    "Code": "CHMB",
+    "Name": "Chemistry @Barnard"
+  },
+  {
+    "Code": "CEEM",
+    "Name": "Civil Engineering and Engineering Mechanics"
+  },
+  {
+    "Code": "CLSB",
+    "Name": "Classics @Barnard"
+  },
+  {
+    "Code": "CGTH",
+    "Name": "Committee On Global Thought"
+  },
+  {
+    "Code": "SOCI",
+    "Name": "Sociology"
+  },
+  {
+    "Code": "LAW",
+    "Name": "Law"
+  },
+  {
+    "Code": "CSOB",
+    "Name": "Comparative Literature and Society @Barnard"
+  },
+  {
+    "Code": "SCEN",
+    "Name": "School of Professional Studies (SCEN)"
+  },
+  {
+    "Code": "CCLS",
+    "Name": "Comparative Literature and Society, Center for"
+  },
+  {
+    "Code": "FILM",
+    "Name": "Film"
+  },
+  {
+    "Code": "GERL",
+    "Name": "Germanic Languages"
+  },
+  {
+    "Code": "FRRP",
+    "Name": "French and Romance Philology"
+  },
+  {
+    "Code": "SLAB",
+    "Name": "Slavic Languages @Barnard"
+  },
+  {
+    "Code": "ITLB",
+    "Name": "Italian @Barnard"
+  },
+  {
+    "Code": "ITAL",
+    "Name": "Italian"
+  },
+  {
+    "Code": "COMS",
+    "Name": "Computer Science"
+  },
+  {
+    "Code": "VDEO",
+    "Name": "Video Network"
+  },
+  {
+    "Code": "DANB",
+    "Name": "Dance @Barnard"
+  },
+  {
+    "Code": "DROM",
+    "Name": "Decision, Risk and Operations"
+  },
+  {
+    "Code": "IEOR",
+    "Name": "Industrial Engineering and Operations Research"
+  },
+  {
+    "Code": "ENSB",
+    "Name": "Environmental Sciences @Barnard"
+  },
+  {
+    "Code": "EESC",
+    "Name": "Earth and Environmental Sciences"
+  },
+  {
+    "Code": "EEEB",
+    "Name": "Ecology, Evolution, and Environmental Biology"
+  },
+  {
+    "Code": "ECON",
+    "Name": "Economics"
+  },
+  {
+    "Code": "ECOB",
+    "Name": "Economics @Barnard"
+  },
+  {
+    "Code": "EDNB",
+    "Name": "Education @Barnard"
+  },
+  {
+    "Code": "MECE",
+    "Name": "Mechanical Engineering"
+  },
+  {
+    "Code": "ENGI",
+    "Name": "Engineering"
+  },
+  {
+    "Code": "AMLP",
+    "Name": "American Language Program"
+  },
+  {
+    "Code": "THEB",
+    "Name": "Theatre @Barnard"
+  },
+  {
+    "Code": "WMST",
+    "Name": "Women's and Gender Studies"
+  },
+  {
+    "Code": "EHSC",
+    "Name": "Environmental Health Sciences"
+  },
+  {
+    "Code": "INTA",
+    "Name": "International and Public Affairs"
+  },
+  {
+    "Code": "EPID",
+    "Name": "Epidemiology"
+  },
+  {
+    "Code": "MEDI",
+    "Name": "Medicine"
+  },
+  {
+    "Code": "CSER",
+    "Name": "Ethnicity and Race, Center for"
+  },
+  {
+    "Code": "EXEC",
+    "Name": "EXECUTIVE CLASSES IN HPM"
+  },
+  {
+    "Code": "FLMB",
+    "Name": "Film @Barnard"
+  },
+  {
+    "Code": "ARTS",
+    "Name": "Arts, School of the"
+  },
+  {
+    "Code": "FYSB",
+    "Name": "First-Year Seminar Program @Barnard"
+  },
+  {
+    "Code": "PUBH",
+    "Name": "Public Health"
+  },
+  {
+    "Code": "FRNB",
+    "Name": "French @Barnard"
+  },
+  {
+    "Code": "GNPH",
+    "Name": "General Public Health"
+  },
+  {
+    "Code": "GEST",
+    "Name": "General Studies"
+  },
+  {
+    "Code": "GEND",
+    "Name": "Genetics and Development"
+  },
+  {
+    "Code": "GRMB",
+    "Name": "German @Barnard"
+  },
+  {
+    "Code": "IIJS",
+    "Name": "INST FOR ISRAEL & JEWISH STDS"
+  },
+  {
+    "Code": "HPMN",
+    "Name": "Health Policy & Management"
+  },
+  {
+    "Code": "HSTB",
+    "Name": "History @Barnard"
+  },
+  {
+    "Code": "CSHR",
+    "Name": "Institute for Study of Human Rights"
+  },
+  {
+    "Code": "HRTB",
+    "Name": "Human Rights (HRTB)"
+  },
+  {
+    "Code": "HUMC",
+    "Name": "Humanities (College)"
+  },
+  {
+    "Code": "JOUR",
+    "Name": "Journalism"
+  },
+  {
+    "Code": "CJAZ",
+    "Name": "Jazz Studies, Center for"
+  },
+  {
+    "Code": "JTSD",
+    "Name": "JEWISH THEOLOGICAL SEMINARY"
+  },
+  {
+    "Code": "LCRS",
+    "Name": "Latin-american & Carib Rs"
+  },
+  {
+    "Code": "MART",
+    "Name": "Marketing"
+  },
+  {
+    "Code": "MATH",
+    "Name": "Mathematics"
+  },
+  {
+    "Code": "MATB",
+    "Name": "Mathematics @Barnard"
+  },
+  {
+    "Code": "PSCC",
+    "Name": "Psychoanalytic Center"
+  },
+  {
+    "Code": "MICR",
+    "Name": "Microbiology"
+  },
+  {
+    "Code": "MRST",
+    "Name": "Medieval and Renaissance Studies"
+  },
+  {
+    "Code": "MEUS",
+    "Name": "Modern European Studies"
+  },
+  {
+    "Code": "MUSB",
+    "Name": "Music @Barnard"
+  },
+  {
+    "Code": "NBIO",
+    "Name": "Neurobiology and Behavior"
+  },
+  {
+    "Code": "NEUR",
+    "Name": "Neurology"
+  },
+  {
+    "Code": "PSYB",
+    "Name": "Psychology @Barnard"
+  },
+  {
+    "Code": "NURS",
+    "Name": "Nursing"
+  },
+  {
+    "Code": "HNUT",
+    "Name": "Human Nutrition, Institute of"
+  },
+  {
+    "Code": "OBSG",
+    "Name": "Obstetrics and Gynecology"
+  },
+  {
+    "Code": "RMED",
+    "Name": "Rehabilitation Medicine (RMED)"
+  },
+  {
+    "Code": "OPHT",
+    "Name": "Ophthalmology"
+  },
+  {
+    "Code": "INCT",
+    "Name": "Center for Innovative Theory and Empirics"
+  },
+  {
+    "Code": "ORHS",
+    "Name": "Oral History"
+  },
+  {
+    "Code": "ORTS",
+    "Name": "Orthopedic Surgery"
+  },
+  {
+    "Code": "OTOL",
+    "Name": "Otolaryngology / Head and Neck Surgery"
+  },
+  {
+    "Code": "PATH",
+    "Name": "Pathology"
+  },
+  {
+    "Code": "PEDI",
+    "Name": "Pediatrics"
+  },
+  {
+    "Code": "PHAR",
+    "Name": "Pharmacology"
+  },
+  {
+    "Code": "PHLB",
+    "Name": "Philosophy @Barnard"
+  },
+  {
+    "Code": "PHED",
+    "Name": "Physical Education"
+  },
+  {
+    "Code": "PEDB",
+    "Name": "Physical Education @Barnard"
+  },
+  {
+    "Code": "PHYT",
+    "Name": "PHYSICAL THERAPY"
+  },
+  {
+    "Code": "PHYG",
+    "Name": "Physiology & Cellular Biophysics"
+  },
+  {
+    "Code": "POLS",
+    "Name": "Political Science"
+  },
+  {
+    "Code": "PLSB",
+    "Name": "Political Science @Barnard"
+  },
+  {
+    "Code": "POPF",
+    "Name": "Population and Family Health"
+  },
+  {
+    "Code": "PSCY",
+    "Name": "Psychiatry"
+  },
+  {
+    "Code": "PSYC",
+    "Name": "Psychology"
+  },
+  {
+    "Code": "RADI",
+    "Name": "Radiology"
+  },
+  {
+    "Code": "EARS",
+    "Name": "East Asian Regional Studies"
+  },
+  {
+    "Code": "SOCW",
+    "Name": "Social Work"
+  },
+  {
+    "Code": "RELB",
+    "Name": "Religion @Barnard"
+  },
+  {
+    "Code": "SURG",
+    "Name": "Surgery"
+  },
+  {
+    "Code": "SCPB",
+    "Name": "Science and Public Policy @Barnard"
+  },
+  {
+    "Code": "SOCB",
+    "Name": "Sociology @Barnard"
+  },
+  {
+    "Code": "VIAR",
+    "Name": "Visual Arts"
+  },
+  {
+    "Code": "SPNB",
+    "Name": "Spanish and Latin American Culture"
+  },
+  {
+    "Code": "STAT",
+    "Name": "Statistics"
+  },
+  {
+    "Code": "EI",
+    "Name": "Earth Institute"
+  },
+  {
+    "Code": "THEA",
+    "Name": "Theatre Arts"
+  },
+  {
+    "Code": "URSB",
+    "Name": "Urban Studies @Barnard"
+  },
+  {
+    "Code": "UROL",
+    "Name": "Urology"
+  },
+  {
+    "Code": "UTSD",
+    "Name": "Union Theological Seminary (UTSD)"
+  },
+  {
+    "Code": "WSTB",
+    "Name": "Women's, Gender, Sexuality Studies @Barnard"
+  },
+  {
+    "Code": "WRIT",
+    "Name": "Writing"
+  }
+]
